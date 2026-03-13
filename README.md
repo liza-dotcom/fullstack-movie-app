@@ -80,11 +80,12 @@ _Authenticated user dashboard showing completed movies, planned watchlist, total
 ## Running the Project Locally
 
 **Frontend**
-cd frontend
-npm install
-npm start
+# cd frontend
+# npm install
+# npm start
 
 **Backend**
+
 # 1. Set up XAMPP or MAMP and start Apache + MySQL
 # 2. Import the provided SQL schema into phpMyAdmin
 # 3. Update db_config.php with your local database credentials
